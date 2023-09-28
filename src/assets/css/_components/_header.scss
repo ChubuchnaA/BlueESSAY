@@ -2,10 +2,10 @@ ul li{
     display: inline-block;
     text-decoration: none;
 }
-.text li{
-    position: absolute;
-    width: 150px;
-    background-color: black;
+.tekk li{
+
+    width: 140px;
+  
  
     
      
@@ -16,24 +16,26 @@ ul li{
     font-family:"Regular" ;
     height: 100px;
 }
-.teck select{
+.tekk select{
     background-color: #03a9f4;
     color: white;
     border-color: #03a9f4;
     font-size: 17px;
 }
-.teck button{
+.tekk button{
     background-color: #03a9f4;
     color: white;
     border-color: #03a9f4;
     padding: 5px 25px;
     margin-bottom: 10px;
+    margin-left: -80px;
+    
 }
-.teck button:hover{
+.tekk button:hover{
     background-color: orangered;
 }
-.teck{
-    margin: -170px 0px 0px 1000px;
+.tekk{
+    margin: -40px 0px 0px 400px;
 }
 .one p{
     margin: -55px 0px 0px 60px ;
@@ -46,4 +48,7 @@ ul li{
 }
 .one span{
     font-size: 15px; 
+}
+#fit{
+    margin: -85px 0px 0px 800px;
 }
