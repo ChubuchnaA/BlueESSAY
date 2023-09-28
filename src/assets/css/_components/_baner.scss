@@ -1,0 +1,75 @@
+
+.two {
+   margin-top: -35px;
+    height: 600px;
+    background-image:url(../../../assets/img/blueessaysite.net_index.png) ;
+}
+.two img {
+    float: right;
+    margin: 100px 100px 0px 0px;
+}
+.two h1{
+    font-size: 40px;
+    color:  #03a9f4;
+    padding: 100px 0px 0px 0px ;
+}
+.two strong{
+    color: black;
+}
+.two hr{
+    width: 600px;
+    margin-top: 50px;
+    position: absolute;
+}
+.two p{
+    margin: 70px 200px 0px 0px ;
+    font-size: 22px;
+    font-family:"Regular" ;
+    color: rgb(122, 122, 122);
+    width: 600px;
+}
+.two button{
+    margin-top: 70px;
+    margin-left: 50px;
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: absolute;
+}
+
+.sok{
+    background-color: #03a9f4;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -50px;
+    height: 200px;
+    display: flex;
+    justify-content:center;
+   
+  
+   
+}
+
+.sok select {
+     background-color: #ffffff;
+     color: rgb(117, 117, 117);
+    border-color: #f8f8f8;
+     padding: 7px;
+     width: 200px;
+     margin-bottom: 70px;
+}
+.sok button{
+    padding: 8px 40px;
+    background-color:#0287c3 ;
+    color: white;
+    border-color: #0287c3;
+    border-radius: 5px;
+    
+}
+.sok input{
+    padding: 7px;
+}
+.sok label{ color: #ffffff; padding-top: 40px;}

@@ -1,0 +1,49 @@
+ul li{
+    display: inline-block;
+    text-decoration: none;
+}
+.text li{
+    position: absolute;
+    width: 150px;
+    background-color: black;
+ 
+    
+     
+}
+.one {
+    background-color: #03a9f4;
+    color: white;
+    font-family:"Regular" ;
+    height: 100px;
+}
+.teck select{
+    background-color: #03a9f4;
+    color: white;
+    border-color: #03a9f4;
+    font-size: 17px;
+}
+.teck button{
+    background-color: #03a9f4;
+    color: white;
+    border-color: #03a9f4;
+    padding: 5px 25px;
+    margin-bottom: 10px;
+}
+.teck button:hover{
+    background-color: orangered;
+}
+.teck{
+    margin: -170px 0px 0px 1000px;
+}
+.one p{
+    margin: -55px 0px 0px 60px ;
+    color: #ffffff;
+    position: absolute;
+    font-size: 20px;
+}
+.one b{
+   color: yellow;
+}
+.one span{
+    font-size: 15px; 
+}
