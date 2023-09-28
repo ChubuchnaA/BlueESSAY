@@ -116,6 +116,9 @@ aside img{
     0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
     height: 200px;
 }
+#foto4{
+    margin-top: -90px;
+}
 .for h5{
     color: black;
     text-align: center;
@@ -136,5 +139,85 @@ aside img{
 .five{
     margin-top: 500px;
     height: 500px;
-    background-image: url(../../../assets/img/blueessaysite.net_index.png);
+    background-image: url(../../../assets/img/blueessaysite.net_6index.png);
+}
+.five:hover{
+   
+    background-image: url(../../../assets/img/blueessaysite.net_5index.png);
+}
+.five td{
+    padding: 48px  45px ;
+    background-color: white;
+}
+.five table{
+    margin: 50px 0px 0px 390px ;
+    font-size: 17px;
+}
+.five b{
+    color: orangered;
+    font-size: 30px;
+}
+.five strong{
+    color: #03a9f4;
+    font-size: 17px;
+    
+}
+.foto11{
+    margin: 40px 0px 0px 800px;
+    position: absolute;
+}
+.tot{
+    border-left: 1px solid;
+   
+}
+.pop{
+    border-top: 1px solid;
+}
+.five h2  {
+    color: white;
+    text-align: center;
+    margin-left: 250px;
+    width: 800px;
+    
+}
+.five span  {
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    width: 700px;
+    font-size: 22px;
+    
+}
+.five h3  {
+    color: white;
+    text-align: center;
+    margin-left: 20px;
+    padding-top: 50px;
+    font-size: 17px;
+    
+}
+
+.six h3{
+    color: #0287c3;
+    font-size: 17px;
+}
+.six{
+    margin-top: 300px;
+    text-align: center;
+    width: 600px;  
+}
+.six b{
+    color: #03a9f4;
+    
+}
+
+.six img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#rig{
+    margin: -300px 0px 0px 500px ;
+}
+#lef{
+    margin: -300px 500px 0px  -900px ;
 }

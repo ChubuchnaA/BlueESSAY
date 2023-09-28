@@ -17,7 +17,7 @@ ul li{
     border-color: #03a9f4;
     font-size: 17px;
 }
-.tekk button{
+#bii button{
     background-color: #03a9f4;
     color: white;
     border-color: #03a9f4;
@@ -27,8 +27,22 @@ ul li{
     margin-top: -20px;
     position: absolute;
 }
-.tekk button:hover{
+#bil button{
     background-color: orangered;
+    color: white;
+    border-color: orangered;
+    padding: 5px 25px;
+    margin-bottom: 0px;
+    margin-left: -100px;
+    margin-top: -20px;
+    position: absolute;
+}
+#bii button:hover{
+    background-color: orangered;
+}
+#bil button:hover{
+    background-color: #03a9f4;
+    border-color: #03a9f4;
 }
 .tekk{
     margin: -40px 0px 0px 320px;
