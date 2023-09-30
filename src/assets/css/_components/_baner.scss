@@ -47,10 +47,17 @@
     margin-top: -50px;
     height: 200px;
     display: flex;
-    justify-content:center;
+    align-items:center;
+    justify-content: center;
    
   
    
+}
+@media screen and (min-width:576px ) and (max-width:992px )  {
+    .sok{
+        height: 400px;
+    }
+    
 }
 
 .sok select {
@@ -62,7 +69,7 @@
      margin-bottom: 70px;
 }
 .sok button{
-    padding: 8px 40px;
+    padding: 8px 50px;
     background-color:#0287c3 ;
     color: white;
     border-color: #0287c3;
@@ -71,5 +78,7 @@
 }
 .sok input{
     padding: 7px;
+    border-radius: 5px;
+    border-color: #03a9f4;
 }
 .sok label{ color: #ffffff; padding-top: 40px;}

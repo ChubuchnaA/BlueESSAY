@@ -3,7 +3,43 @@ ul li{
     text-decoration: none;
 }
 .tekk li{
-    width: 150px;       
+    width: 150px;   
+   
+}
+@media screen and (min-width:992px ) and (max-width:1399px )  {
+    .tekk {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 100px);
+    }   
+}
+@media screen and (min-width:576px ) and (max-width:991px )  {
+    .tekk {
+        position: absolute;
+        padding: 300px ;
+    }   
+}
+.ipe{
+    position: absolute;
+    margin: -35px 0px 0px 450px;
+    height: 300px;
+    
+   
+}
+@media screen and (min-width:1400px ) and (max-width:1836px )  {
+    .tekk .ipe {
+     margin-top: 15px;
+     margin-left: -20px;
+     background-color: #03a9f4;
+     padding-left: 42px;
+     height: 50px;
+     width: 655px;
+     
+
+    }   
+}
+.one .name {
+    padding-left: 250px;
 }
 .one {
     background-color: #03a9f4;
@@ -18,13 +54,13 @@ ul li{
     font-size: 17px;
 }
 #bii button{
-    background-color: #03a9f4;
+    background-color: #0287c3;
     color: white;
-    border-color: #03a9f4;
+    border-color: #0287c3;
     padding: 5px 25px;
     margin-bottom: 0px;
     margin-left: -100px;
-    margin-top: -20px;
+    margin-top: -25px;
     position: absolute;
 }
 #bil button{
@@ -34,18 +70,20 @@ ul li{
     padding: 5px 25px;
     margin-bottom: 0px;
     margin-left: -100px;
-    margin-top: -20px;
+    margin-top: -25px;
     position: absolute;
 }
 #bii button:hover{
     background-color: orangered;
+    border-color: orangered;
 }
 #bil button:hover{
-    background-color: #03a9f4;
-    border-color: #03a9f4;
+    background-color: #0287c3;
+    border-color: #0287c3;
 }
 .tekk{
-    margin: -40px 0px 0px 320px;
+    display: grid;
+     margin: -40px 0px 0px 700px;
 }
 .one p{
     margin: -55px 0px 0px 60px ;
@@ -59,6 +97,6 @@ ul li{
 .one span{
     font-size: 15px; 
 }
-.foto{
-    margin: -55px 0px 0px 800px ;
+.fotoo{
+    margin: 2px 0px 0px -110px ;
 }
